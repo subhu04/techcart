@@ -1,10 +1,10 @@
 # techcart
-Readme
-Techcart
+                                    Readme
+Techcart-
 This is an e-commerce website in which customers register an account and log in to purchage electronic products and use other services ,you can also use contact us section for any query related to the products on the website. . Currently this only works on a local server with a local MySql database.
-Build Status
+Build Status-
 The website is currently in incomplete state and having modules like home page,login page , register page, contect us page,wishlist page,cart page,and orders page.
-Screenshots
+Screenshots-
 Home page
  
 ![s about](https://user-images.githubusercontent.com/114213876/200988263-cf1243c3-3bee-484a-b7cd-e09845d6546b.png)
